@@ -1,0 +1,12 @@
+/home/andrey/lesson/dotnet/web_tutorial/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/andrey/lesson/dotnet/web_tutorial/Domain/bin/Debug/net7.0/Domain.dll
+/home/andrey/lesson/dotnet/web_tutorial/Domain/bin/Debug/net7.0/Domain.pdb
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.dll
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.pdb
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/ref/Domain.dll

@@ -1,0 +1,12 @@
+/home/andrey/lesson/dotnet/web_tutorial/Storage/bin/Debug/net7.0/Storage.deps.json
+/home/andrey/lesson/dotnet/web_tutorial/Storage/bin/Debug/net7.0/Storage.dll
+/home/andrey/lesson/dotnet/web_tutorial/Storage/bin/Debug/net7.0/Storage.pdb
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/Storage.csproj.AssemblyReference.cache
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/Storage.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/Storage.AssemblyInfoInputs.cache
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/Storage.AssemblyInfo.cs
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/Storage.csproj.CoreCompileInputs.cache
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/Storage.dll
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/refint/Storage.dll
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/Storage.pdb
+/home/andrey/lesson/dotnet/web_tutorial/Storage/obj/Debug/net7.0/ref/Storage.dll
