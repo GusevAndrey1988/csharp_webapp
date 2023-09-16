@@ -38,3 +38,8 @@
 /home/andrey/lesson/dotnet/web_tutorial/API/obj/Debug/net7.0/API.pdb
 /home/andrey/lesson/dotnet/web_tutorial/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /home/andrey/lesson/dotnet/web_tutorial/API/obj/Debug/net7.0/ref/API.dll
+/home/andrey/lesson/dotnet/web_tutorial/API/bin/Debug/net7.0/Humanizer.dll
+/home/andrey/lesson/dotnet/web_tutorial/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/andrey/lesson/dotnet/web_tutorial/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/andrey/lesson/dotnet/web_tutorial/API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/andrey/lesson/dotnet/web_tutorial/API/bin/Debug/net7.0/System.CodeDom.dll
