@@ -10,3 +10,6 @@
 /home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/refint/Domain.dll
 /home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.pdb
 /home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/ref/Domain.dll
+/home/andrey/lesson/dotnet/web_tutorial/Domain/bin/Debug/net7.0/Storage.dll
+/home/andrey/lesson/dotnet/web_tutorial/Domain/bin/Debug/net7.0/Storage.pdb
+/home/andrey/lesson/dotnet/web_tutorial/Domain/obj/Debug/net7.0/Domain.csproj.CopyComplete
